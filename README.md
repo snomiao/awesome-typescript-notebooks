@@ -38,15 +38,9 @@
 
 vscode command: >@command:workbench.action.terminal.runSelectedText
 
-## Other
-
-### Render (without interactive)
-
-- [jsvine/notebookjs: Render Jupyter/IPython notebooks on the fly, in the browser. (Or on the command line, if you'd like.)](https://github.com/jsvine/notebookjs)
-
 ## Contribute
 
-Fork it!
+Pr s welcome
 
 ## Reference
 
@@ -55,5 +49,6 @@ Fork it!
 - [Working with Jupyter code cells in the Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py)
 - [joaomoreno/vscode-javascript-notebooks: JavaScript & TypeScript Notebooks for VS Code](https://github.com/joaomoreno/vscode-javascript-notebooks)
 - [Bringing Modern JavaScript to the Jupyter Notebook \| by Kyle Kelley | Jupyter Blog](https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e)
+- Jupyter Render: [jsvine/notebookjs: Render Jupyter/IPython notebooks on the fly, in the browser. (Or on the command line, if you'd like.)](https://github.com/jsvine/notebookjs)
 
 [^1]: Starboard [(2) I created an open source literate notebook system similar to Jupyter Notebook but for Javascript that runs entirely in the browser : javascript](https://www.reddit.com/r/javascript/comments/i2gtnl/i_created_an_open_source_literate_notebook_system/)
