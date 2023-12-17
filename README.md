@@ -1,5 +1,7 @@
 # Awesome - Typescript Notebooks
 
+Do research & arts with Javascript!
+
 ## Candidates
 
 ### Web APP
@@ -27,6 +29,21 @@
 - [Node.js REPL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=lostfields.nodejs-repl) / [lostfields/vscode-nodejs-repl: Visual Studio Code - Extension NodeJs REPL](https://github.com/lostfields/vscode-nodejs-repl)
 - [JavaScript Interactive - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MohammadMD.js-interactive) / [MohammadMD1383/js-interactive: A JavaScript console simulator for vscode](https://github.com/MohammadMD1383/js-interactive)
 - Not Opensourced: [JavaScript REPL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=achil.vscode-javascript-repl) / [axilleasiv/vscode-javascript-repl-docs: JavaScript REPL is a javascript playground for Visual Studio Code with live feedback as you type, besides your code](https://github.com/axilleasiv/vscode-javascript-repl-docs)
+
+### Art & Design REPL with Javascript/Typescript
+
+#### P5
+
+- [p5.js Web Editor]( https://editor.p5js.org/ )
+- [p5.vscode - Visual Studio Marketplace]( https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode )
+- [pixelkind/p5notebook: A notebook extension for p5js for Visual Studio Code]( https://github.com/pixelkind/p5notebook )
+
+#### OpenJSCAD
+
+- [JSCAD - JavaScript CAD]( https://openjscad.xyz/ )
+
+
+###
 
 ### Typescript Notebook vscode Extensions
 
