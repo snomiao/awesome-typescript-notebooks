@@ -13,9 +13,9 @@ Do research & arts with Javascript!
 
 #### OpenJSCAD Editor
 
-- [OpenSCAD Cloud from Autodrop3d]( https://openscad.cloud/openscad/ )
 - [JSCAD - JavaScript CAD]( https://openjscad.xyz/ )
 - [OpenJSCAD.org]( https://openjscad.azurewebsites.net/ )
+- (SCAD in WASM) [OpenSCAD Cloud from Autodrop3d]( https://openscad.cloud/openscad/ )
 
 ### Javascript/Typescript Notebooks
 
