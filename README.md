@@ -2,6 +2,24 @@
 
 Do research & arts with Javascript!
 
+## Data Process
+
+- https://www.npmjs.com/package/d3 (data utils)
+- https://www.npmjs.com/package/lodash-es (data utils)
+- https://www.npmjs.com/package/rambda (data utils)
+- https://www.npmjs.com/package/pandas-js (dataframe)
+- https://www.npmjs.com/package/dataframe-js (dataframe)
+- https://www.npmjs.com/package/danfojs (dataframe)
+- https://www.npmjs.com/package/arquero (dataframe)
+
+<details>
+<summary>
+* install them by
+</summary>
+```
+bun i -d d3 rambda pandas-js dataframe-js danfojs arquero
+```
+</details>
 
 ### Art & Design editor with Javascript/Typescript
 
@@ -19,7 +37,7 @@ Do research & arts with Javascript!
 
 ### Javascript/Typescript Notebooks
 
-### Web APP
+### Web APPs
 
 - [RunKit is a node playground.](https://runkit.com/home)
 - TypeCell [TypeCell - Interactive documents. Reimagined.](https://www.typecell.org/)
