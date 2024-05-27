@@ -2,25 +2,6 @@
 
 Do research & arts with Javascript!
 
-## Data Process
-
-- https://www.npmjs.com/package/d3 (data utils)
-- https://www.npmjs.com/package/lodash-es (data utils)
-- https://www.npmjs.com/package/rambda (data utils)
-- https://www.npmjs.com/package/pandas-js (dataframe)
-- https://www.npmjs.com/package/dataframe-js (dataframe)
-- https://www.npmjs.com/package/danfojs (dataframe)
-- https://www.npmjs.com/package/arquero (dataframe)
-
-<details>
-<summary>
-* install them by
-</summary>
-```
-bun i -d d3 rambda pandas-js dataframe-js danfojs arquero
-```
-</details>
-
 ### Art & Design editor with Javascript/Typescript
 
 #### P5 Editor
@@ -73,6 +54,19 @@ bun i -d d3 rambda pandas-js dataframe-js danfojs arquero
 
 vscode command: >@command:workbench.action.terminal.runSelectedText
 
+js-python plugin - [codehz/bun_python: Ported from deno_python]( https://github.com/codehz/bun_python )
+
+## Data Process
+
+- https://www.npmjs.com/package/d3 (data utils)
+- https://www.npmjs.com/package/lodash-es (data utils)
+- https://www.npmjs.com/package/rambda (data utils)
+- https://www.npmjs.com/package/pandas-js (dataframe)
+- https://www.npmjs.com/package/dataframe-js (dataframe)
+- https://www.npmjs.com/package/danfojs (dataframe)
+- https://www.npmjs.com/package/arquero (dataframe)
+
+
 ## Contribute
 
 Pr s welcome
@@ -87,3 +81,4 @@ Pr s welcome
 - Jupyter Render: [jsvine/notebookjs: Render Jupyter/IPython notebooks on the fly, in the browser. (Or on the command line, if you'd like.)](https://github.com/jsvine/notebookjs)
 
 [^1]: Starboard [(2) I created an open source literate notebook system similar to Jupyter Notebook but for Javascript that runs entirely in the browser : javascript](https://www.reddit.com/r/javascript/comments/i2gtnl/i_created_an_open_source_literate_notebook_system/)
+
