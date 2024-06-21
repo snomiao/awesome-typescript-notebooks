@@ -2,24 +2,26 @@
 
 Do research & arts with Javascript!
 
-### Art & Design editor with Javascript/Typescript
+## Art & Design editor with Javascript/Typescript
 
-#### P5 Editor
+### P5 Editor
 
 - [p5.js Web Editor]( https://editor.p5js.org/ )
 - [p5.vscode - Visual Studio Marketplace]( https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode )
 - [pixelkind/p5notebook: A notebook extension for p5js for Visual Studio Code]( https://github.com/pixelkind/p5notebook )
 
-#### OpenJSCAD Editor
+### OpenJSCAD Editor
 
 - [JSCAD - JavaScript CAD]( https://openjscad.xyz/ )
-- [OpenJSCAD.org]( https://openjscad.azurewebsites.net/ )
 - (SCAD in WASM) [OpenSCAD Cloud from Autodrop3d]( https://openscad.cloud/openscad/ )
 
-### Javascript/Typescript Notebooks
+## Javascript/Typescript Notebooks
+
 
 ### Web APPs
 
+- [JS Notebook]( https://jsnotebook.dev/ )
+- [scribbler](https://app.scribbler.live/)
 - [RunKit is a node playground.](https://runkit.com/home)
 - TypeCell [TypeCell - Interactive documents. Reimagined.](https://www.typecell.org/)
 - [Starboard](https://starboard.gg/) / [gzuidhof/starboard-notebook: In-browser literate notebooks](https://github.com/gzuidhof/starboard-notebook)
@@ -27,7 +29,7 @@ Do research & arts with Javascript!
 
 ### Desktop App
 
-- [NotebookJS - Javascript playground for Desktop](https://notebookjs.app/)
+- [Znote - The Note-taking App for Doers]( https://znote.io/ ) renamed from - [notebookjs.app](https://notebookjs.app/) #p5 #threejs
 
 ### Typescript Jupyter kernel
 
